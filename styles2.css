@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(39, 116, 36);
+}
+img {
+    width: 100%;
+}
+
+.Galeria {
+    display: flex;
+    padding: 5px;
+}
+
+.h1 {
+    text-align: center;
+    position: relative;
+    width: 80%;
+    margin: 50px; 
+}
